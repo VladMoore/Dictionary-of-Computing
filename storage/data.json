@@ -1,0 +1,4 @@
+[
+  { "key": "Macintosh", "alias": ["macbook","mac","Apple Computer","mac"], "description": "The MacBook is a line of Macintosh laptop computers designed by Apple. The MacBook line consists of the original MacBook (2006-present), the MacBook Pro (2006-present), and the MacBook Air (2008-present). The MacBook lineup came from the merging of the PowerBook and iBook lines as Apple transitioned over to using Intel instead of PowerPC processors. Click a link below for more information on each type of MacBook." },
+  { "key": "DDOS", "alias": ["Distributed Denial of Service"], "description": "his type of attack involves sending large amounts of traffic from multiple sources to a service or website, intending to overwhelm it. A huge influx of traffic all at once can tie up all the site’s resources and thereby deny access to legitimate users." }
+]
