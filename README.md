@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # Backend developer word api
 
-Created by ARR4NN#0340
-=======
-# Dictionary-of-Computing
->>>>>>> 509f209d6ac527837328c1386792d1a19538752a
+How to use:
+1. Load code and run `node index.js`
+2) Head to browser to `http://localhost:3000/query?q=<QUERY>`
+
+## Example
+`http://localhost:3000/query?q=ddos`
+
+### Created by ARR4NN#0340
