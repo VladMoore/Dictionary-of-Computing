@@ -7,4 +7,4 @@ How to use:
 ## Example
 `http://localhost:3000/query?q=ddos`
 
-### Created by ARR4NN#0340
+### Created by ARR4NN#0340 :)
