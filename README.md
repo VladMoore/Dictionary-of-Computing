@@ -8,3 +8,8 @@ How to use:
 `http://localhost:3000/query?q=ddos`
 
 ### Created by ARR4NN#0340 :)
+
+requirement notes: 
+ - Node
+ - fastify
+npm i fastify --save
