@@ -13,7 +13,8 @@ e.g. `http://localhost:3000/query?q=DDOS`
 Note you'll need node.js for your installation.
 ```
 git clone https://github.com/VladMoore/Dictionary-of-Computing.git
-npm i fastify --save
+npm install fastify --save
+npm install --save fuse.js
 cd Dictionary-of-Computing-main
 node index.js
 ```
