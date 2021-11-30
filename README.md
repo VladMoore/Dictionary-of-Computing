@@ -3,7 +3,7 @@
 Are you a developer? Do you sometimes find yourself looking for computing related definitions? Are you sick of ending up on whole articles for the one question you had? Why do all that when you could query an API in only a second! Our API hopes to fix that annoying cylce, providing concise definitions in the form of easily decodable JSON.
 
 ⬇This is you lol ⬇
-![you lol](https://i.imgur.com/IOw3Mpd.gif)
+<img src="https://i.imgur.com/IOw3Mpd.gif"/>
 
 ## Usage
 If you are locally hosting you can use:
