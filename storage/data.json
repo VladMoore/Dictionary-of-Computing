@@ -39,12 +39,63 @@
     ]
   },
   {
-    "key": "A4",
+    "key": "A4 Paper",
     "description": "A4 is an international standard paper size defined by ISO (standard ISO 216). Its dimensions are 210 x 297 mm, or 8.27 x 11.69 inches. Its height-to-width aspect ratio is approximately the square root of 2 (1.414) to one.",
     "alias": [
-      "a4",
       "a4 paper"
     ]
+  },
+  {
+    "key": "A4 Processor",
+    "description": "The Apple A4 processor is a type processor known as a system-on-a-chip, where a CPU and a GPU are combined onto a single processing chip. It combines the general processing power of an ARM Cortex-A8 CPU with the graphical processing power of a PowerVR GPU. The Apple A4 was originally designed and introduced by Apple on January 27, 2010. Samsung manufactured the processor for Apple.",
+    "alias": [
+      "a4 processor"
+    ]
+  },
+  {
+    "key": "A4Tech",
+    "description": "Founded in 1987, A4Tech, headquartered in Taipei, Taiwan is a global leader in the computer peripheral field. It's products include: keyboards, mice, PC cams, hubs, and headsets.",
+    "alias": [
+      "A4Tech"
+    ]
+  },
+  {
+    "key": "A20",
+    "description": "A20 is the 21st memory address line on 80286 and later processors that allow real mode software to gain access to high memory or area of memory beyond the first megabyte. With MS-DOS and early versions of Windows, this technique of accessing the high memory area was done using an A20 handler. For example, you could load the himem.sys in the config.sys file and use the DOS=HIGH,UMB line to get access to the computers high memory.",
+    "alias": [
+      "a20",
+      "a20 handler",
+      "a20 line"
+    ]
+  },
+  {
+    "key": "Amiga",
+    "description": "",
+    "alias": [
+      "A500",
+      "A600",
+      "A1000",
+      "A1200",
+      "A2000",
+      "A3000",
+      "A4000",
+      "Amiga"
+    ]
+  },
+  {
+    "key": "Anti-aliasing",
+    "description": " Sometimes abbreviated as AA, anti-aliasing is a term used to describe the software process of making the edges of graphics objects or fonts smoother. Accomplished by adding additional pixels in-between the edges of an object and its background. Anti-aliasing improves the appearance of polygon edges, so they are not 'jagged' but are smoothed out on the screen.",
+    "alias": [
+      "AA"
+    ]
+  },
+  {
+    "key": "triple-A",
+    "description": "With computer gaming, triple-A or AAA describes a game developed by a large publisher who has access to millions of dollars to spend on development. For example, a game like Grand Theft Auto V from Rockstar Games, which took over $250 million for development, is an example of an AAA game.",
+    "alias": [
+      "AA"
+    ]
   }
+
 
 ]
