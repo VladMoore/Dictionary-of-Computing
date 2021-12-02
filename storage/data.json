@@ -1,17 +1,50 @@
 [
   {
-    "key": "ABC",
-    "description": "1 Abbrev. for Atanasoff-Berry computer; the first automatic electronic digital computer. 2 An interactive general-purpose high-level programming language designed as a replacement for BASIC* at Centrum Wiskunde & Informatica, Netherlands.",
+    "key": "A",
+    "description": "A: is a physical drive on older PC or IBM compatible computers, the A: drive denotes the 3.5-inch or 5.25-inch floppy disk drive. Often, the A: drive is configured in BIOS setup as the first bootable drive on IBM-compatible computers.",
     "alias" : [
-      "abc"
+      "a"
     ]
   },
   {
-    "key": "abduction",
-    "description": "The term 'abduction' is occasionally used to refer to the process of generating hypotheses to explain data or findings.",
+    "key": "A*",
+    "description": "A* (pronounced 'A-star') is an algorithm for pathfinding and traversing a graph data structure. It was developed in 1968 by researchers at Stanford University and is widely used today―notably in computer games. When a video game character moves and navigates around obstacles or terrain, the A* algorithm was likely used to calculate the path.",
     "alias": [
-      "abduction",
-      "abductive logic"
+      "a*",
+      "A-star"
+    ]
+  },
+  {
+    "key": "A+",
+    "description": "The A+ or A-Plus is a certification program created by CompTIA and administrated by Drake Parametric covering both hardware and software for the IBM compatible and Macintosh platforms. This certification is usually the minimum requirement for most computer technical support jobs. Up until 2011 the A+ certification was a lifetime certification; the certification now must be renewed every three years.",
+    "alias": [
+      "a+",
+      "A-plus"
+    ]
+  },
+  {
+    "key": "A-0",
+    "description": "Short for Arithmetic Language version 0, A-0 was the first electronic computer compiler written by Grace Hopper in 1951 for the UNIVAC I computer.",
+    "alias": [
+      "a-0",
+      "Arithmetic Language version 0"
+    ]
+  },
+  {
+    "key": "A2P",
+    "description": "The a2p utility takes an awk script specified on the command line and produces a comparable perl script on standard output.",
+    "alias": [
+      "a2p",
+      "Linux a2p command"
+    ]
+  },
+  {
+    "key": "A4",
+    "description": "A4 is an international standard paper size defined by ISO (standard ISO 216). Its dimensions are 210 x 297 mm, or 8.27 x 11.69 inches. Its height-to-width aspect ratio is approximately the square root of 2 (1.414) to one.",
+    "alias": [
+      "a4",
+      "a4 paper"
     ]
   }
+
 ]
