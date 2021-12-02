@@ -22,3 +22,4 @@ We are looking for people to contribute to the entries. Feel free to make pull r
 
 ## Main Credit
 Thanks [ARR4NN](https://github.com/ARR4NN) for doing almost all the backend work! (He really likes to credit himesellf in all of his commit names...)
+
