@@ -95,7 +95,14 @@
     "alias": [
       "AA"
     ]
-  }
+  },
+  {
+    "key": "April Fools Joke",
+    "description": "Shorthand for April fool's joke, AFJ is a practical joke or hoax performed on the first day of April known as April Fools day. April fools jokes have always been popular and continue to be popular on the Internet and Internet news-related sites. For example, Google announced on April 1, 2002, that the technology behind its excellent search results is PigeonRank, a system that relies primarily on trainable domestic pigeons.",
+    "alias": [
+      "AFJ"
+    ]
+  },
 
 
 ]
