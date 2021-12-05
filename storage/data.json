@@ -1,4 +1,108 @@
 [
-  { "key": "Macintosh", "alias": ["macbook","mac","Apple Computer","mac"], "description": "The MacBook is a line of Macintosh laptop computers designed by Apple. The MacBook line consists of the original MacBook (2006-present), the MacBook Pro (2006-present), and the MacBook Air (2008-present). The MacBook lineup came from the merging of the PowerBook and iBook lines as Apple transitioned over to using Intel instead of PowerPC processors. Click a link below for more information on each type of MacBook." },
-  { "key": "DDOS", "alias": ["Distributed Denial of Service"], "description": "his type of attack involves sending large amounts of traffic from multiple sources to a service or website, intending to overwhelm it. A huge influx of traffic all at once can tie up all the site’s resources and thereby deny access to legitimate users." }
+  {
+    "key": "A",
+    "description": "A: is a physical drive on older PC or IBM compatible computers, the A: drive denotes the 3.5-inch or 5.25-inch floppy disk drive. Often, the A: drive is configured in BIOS setup as the first bootable drive on IBM-compatible computers.",
+    "alias" : [
+      "a"
+    ]
+  },
+  {
+    "key": "A*",
+    "description": "A* (pronounced 'A-star') is an algorithm for pathfinding and traversing a graph data structure. It was developed in 1968 by researchers at Stanford University and is widely used today―notably in computer games. When a video game character moves and navigates around obstacles or terrain, the A* algorithm was likely used to calculate the path.",
+    "alias": [
+      "a*",
+      "A-star"
+    ]
+  },
+  {
+    "key": "A+",
+    "description": "The A+ or A-Plus is a certification program created by CompTIA and administrated by Drake Parametric covering both hardware and software for the IBM compatible and Macintosh platforms. This certification is usually the minimum requirement for most computer technical support jobs. Up until 2011 the A+ certification was a lifetime certification; the certification now must be renewed every three years.",
+    "alias": [
+      "a+",
+      "A-plus"
+    ]
+  },
+  {
+    "key": "A-0",
+    "description": "Short for Arithmetic Language version 0, A-0 was the first electronic computer compiler written by Grace Hopper in 1951 for the UNIVAC I computer.",
+    "alias": [
+      "a-0",
+      "Arithmetic Language version 0"
+    ]
+  },
+  {
+    "key": "A2P",
+    "description": "The a2p utility takes an awk script specified on the command line and produces a comparable perl script on standard output.",
+    "alias": [
+      "a2p",
+      "Linux a2p command"
+    ]
+  },
+  {
+    "key": "A4 Paper",
+    "description": "A4 is an international standard paper size defined by ISO (standard ISO 216). Its dimensions are 210 x 297 mm, or 8.27 x 11.69 inches. Its height-to-width aspect ratio is approximately the square root of 2 (1.414) to one.",
+    "alias": [
+      "a4 paper"
+    ]
+  },
+  {
+    "key": "A4 Processor",
+    "description": "The Apple A4 processor is a type processor known as a system-on-a-chip, where a CPU and a GPU are combined onto a single processing chip. It combines the general processing power of an ARM Cortex-A8 CPU with the graphical processing power of a PowerVR GPU. The Apple A4 was originally designed and introduced by Apple on January 27, 2010. Samsung manufactured the processor for Apple.",
+    "alias": [
+      "a4 processor"
+    ]
+  },
+  {
+    "key": "A4Tech",
+    "description": "Founded in 1987, A4Tech, headquartered in Taipei, Taiwan is a global leader in the computer peripheral field. It's products include: keyboards, mice, PC cams, hubs, and headsets.",
+    "alias": [
+      "A4Tech"
+    ]
+  },
+  {
+    "key": "A20",
+    "description": "A20 is the 21st memory address line on 80286 and later processors that allow real mode software to gain access to high memory or area of memory beyond the first megabyte. With MS-DOS and early versions of Windows, this technique of accessing the high memory area was done using an A20 handler. For example, you could load the himem.sys in the config.sys file and use the DOS=HIGH,UMB line to get access to the computers high memory.",
+    "alias": [
+      "a20",
+      "a20 handler",
+      "a20 line"
+    ]
+  },
+  {
+    "key": "Amiga",
+    "description": "",
+    "alias": [
+      "A500",
+      "A600",
+      "A1000",
+      "A1200",
+      "A2000",
+      "A3000",
+      "A4000",
+      "Amiga"
+    ]
+  },
+  {
+    "key": "Anti-aliasing",
+    "description": " Sometimes abbreviated as AA, anti-aliasing is a term used to describe the software process of making the edges of graphics objects or fonts smoother. Accomplished by adding additional pixels in-between the edges of an object and its background. Anti-aliasing improves the appearance of polygon edges, so they are not 'jagged' but are smoothed out on the screen.",
+    "alias": [
+      "AA"
+    ]
+  },
+  {
+    "key": "triple-A",
+    "description": "With computer gaming, triple-A or AAA describes a game developed by a large publisher who has access to millions of dollars to spend on development. For example, a game like Grand Theft Auto V from Rockstar Games, which took over $250 million for development, is an example of an AAA game.",
+    "alias": [
+      "AA"
+    ]
+  },
+  {
+    "key": "April Fools Joke",
+    "description": "Shorthand for April fool's joke, AFJ is a practical joke or hoax performed on the first day of April known as April Fools day. April fools jokes have always been popular and continue to be popular on the Internet and Internet news-related sites. For example, Google announced on April 1, 2002, that the technology behind its excellent search results is PigeonRank, a system that relies primarily on trainable domestic pigeons.",
+    "alias": [
+      "AFJ"
+    ]
+  },
+
+
 ]
